@@ -77,10 +77,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | BKSP |
 
             bindings = <
-&none  &kp B                            &kp L                          &kp D                              &kp W                            &kp Z          &kp GRAVE    &kp F                             &kp O                               &kp U                           &kp J                                 &none
-&none  &hold_tap_behavior LCTRL N       &hold_tap_behavior LEFT_ALT R  &hold_tap_behavior LEFT_COMMAND T  &hold_tap_behavior LEFT_SHIFT S  &lt 6 G        &lt 6 Y      &hold_tap_behavior RIGHT_SHIFT H  &hold_tap_behavior RIGHT_COMMAND A  &hold_tap_behavior RIGHT_ALT E  &hold_tap_behavior RCTRL I            &none
-&none  &hold_tap_behavior LEFT_SHIFT Q  &kp X                          &kp M                              &kp C                            &kp V          &kp K        &kp P                             &kp PERIOD                          &kp APOSTROPHE                  &hold_tap_behavior RIGHT_SHIFT SLASH  &none
-                                                                       &kp GRAVE                          &lt 3 TAB                        &lt 5 SPACE    &lt 4 SPACE  &lt 1 LEFT_SHIFT                  &lt 2 BACKSPACE
+&none  &kp B                            &kp L                          &kp D                              &kp W                            &kp Z        &kp GRAVE    &kp F                             &kp O                               &kp U                           &kp J                                 &none
+&none  &hold_tap_behavior LCTRL N       &hold_tap_behavior LEFT_ALT R  &hold_tap_behavior LEFT_COMMAND T  &hold_tap_behavior LEFT_SHIFT S  &lt 6 G      &lt 6 Y      &hold_tap_behavior RIGHT_SHIFT H  &hold_tap_behavior RIGHT_COMMAND A  &hold_tap_behavior RIGHT_ALT E  &hold_tap_behavior RCTRL I            &none
+&none  &hold_tap_behavior LEFT_SHIFT Q  &kp X                          &kp M                              &kp C                            &kp V        &kp K        &kp P                             &kp PERIOD                          &kp APOSTROPHE                  &hold_tap_behavior RIGHT_SHIFT SLASH  &none
+                                                                       &kp GRAVE                          &lt 3 TAB                        &lt 5 RET    &lt 4 SPACE  &lt 1 LEFT_SHIFT                  &lt 2 BACKSPACE
             >;
         };
 
